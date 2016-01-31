@@ -1,7 +1,7 @@
 name: YangzomBrauen
 favicon: null
-layout_spectrum: 0.74392
-typography_spectrum: 0.49932
+layout_spectrum: 0
+typography_spectrum: 0.35998
 title: NEWS
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ffe7c6'
     - '#4d5d70'
     - '#fd9659'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
