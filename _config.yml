@@ -1,7 +1,7 @@
 name: YangzomBrauen
 favicon: null
-layout_spectrum: 0.610722292214632
-typography_spectrum: 0.7955553943756968
+layout_spectrum: 1
+typography_spectrum: 0.49932
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2094750024843961
-  lightness: 0.9156761167105287
-  saturation: 0.9989665623288602
-  rhythmicContrast: 0.29527643718756735
+    - '#e0e9ee'
+    - '#2d160c'
+    - '#c5a379'
+    - '#8f6f4f'
+    - '#882d43'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
